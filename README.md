@@ -64,13 +64,13 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/Sass.svg" width="48" height="48" alt="Sass" />
+        <img src="./img/Sass.png" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/Docker.webp" width="48" height="48" alt="Docker" />
+        <img src="./img/Docker.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
