@@ -24,7 +24,7 @@
 
 > Tools, languages, and other things that I like to work with.
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -81,13 +81,13 @@
       <br>MySQL
     </td>
   </tr>
-  <tr>
-  </tr>
 </table>
 <h2>📊 My Stats :</h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Essjordanmilk&theme=vue-dark&locale=es&type=png)](https://git.io/streak-stats)
 
-![Essjordanmilk GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Essjordanmilk GitHub stats](https://github-readme-stats.vercel.app/api?username=Essjordanmilk&theme=tokyonight&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Essjordanmilk)](https://github.com/anuraghazra/github-readme-stats)
+
+
