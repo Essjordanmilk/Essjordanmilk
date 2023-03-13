@@ -84,7 +84,7 @@
 </table>
 <h2>📊 My Stats :</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Essjordanmilk&theme=vue-dark&locale=es&type=png)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Essjordanmilk&theme=vue-dark&locale=es)](https://git.io/streak-stats)
 
 ![Essjordanmilk GitHub stats](https://github-readme-stats.vercel.app/api?username=Essjordanmilk&theme=tokyonight&show_icons=true)
 
